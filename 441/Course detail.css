@@ -7,6 +7,10 @@ h1 {
 }
 h3 {
   color: rgb(226, 120, 14);
+  
+}
+h5{
+  color: rgb(226, 120, 14);
 }
 body {
 
@@ -103,23 +107,23 @@ body {
   padding: 20px;
   margin-top: 200px;
   width: 20%;
-  height: 400px;
+  height: 500px;
   margin-left: 200px;
 }
 .card2 {
   background-color: white;
   padding: 20px;
-  margin-top: -440px;
+  margin-top: -540px;
   width: 20%;
-  height: 400px;
+  height: 500px;
   margin-left: 600px;
 }
 .card3 {
   background-color: white;
   padding: 20px;
-  margin-top: -440px;
+  margin-top: -540px;
   width: 20%;
-  height: 400px;
+  height: 500px;
   margin-left: 1000px;
 }
 /* Footer */
