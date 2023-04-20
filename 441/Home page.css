@@ -16,8 +16,9 @@ body {
    background-attachment: fixed;
 
 }
-.CSSSlideshow{
-      margin-top: -20px;
+.slideshow-container{
+      margin-top: 50px;
+      margin-left:600px ;
 }
 .schoolpicture{
       margin-top: -20px;
