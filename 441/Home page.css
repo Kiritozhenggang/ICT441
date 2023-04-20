@@ -21,7 +21,8 @@ body {
       margin-left:600px ;
 }
 .schoolpicture{
-      margin-top: -20px;
+    float:left  
+    margin-top: -20px;
 }
 body {
     margin: 0;
